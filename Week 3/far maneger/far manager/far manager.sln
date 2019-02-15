@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "far manager", "far manager\far manager.csproj", "{926D49DB-3762-4E41-BA6B-E4AFFBA57807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{926D49DB-3762-4E41-BA6B-E4AFFBA57807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{926D49DB-3762-4E41-BA6B-E4AFFBA57807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{926D49DB-3762-4E41-BA6B-E4AFFBA57807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{926D49DB-3762-4E41-BA6B-E4AFFBA57807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30D58FC1-2C0F-4AC9-A79C-A458CF74C0ED}
+	EndGlobalSection
+EndGlobal
